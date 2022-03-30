@@ -27,3 +27,10 @@ table, td, th {
     margin: auto;
     text-align: center;
 }
+
+.center-list{
+    width: 50%;
+    list-style-position: inside;
+    text-align: left;
+    display: inline-block;
+}
