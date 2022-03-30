@@ -15,7 +15,7 @@ table, td, th {
 }
 
 .html-list{
-    color: dodgerblue;
+    color: mediumpurple;
     list-style: square;
 }
 
@@ -36,3 +36,8 @@ table, td, th {
     text-align: left;
     display: inline-block;
 }
+
+input, label {
+    display: block;
+}
+
