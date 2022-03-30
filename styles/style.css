@@ -29,7 +29,7 @@ table, td, th {
 }
 
 .center-list{
-    width: 5%;
+    width: 15%;
     list-style-position: inside;
     text-align: left;
     display: inline-block;
