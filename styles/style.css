@@ -15,11 +15,13 @@ table, td, th {
 }
 
 .html-list{
+    color: dodgerblue;
     list-style: square;
 }
 
 .css-list{
     color: blue;
+    list-style: square;
 }
 
 .center{
