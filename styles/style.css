@@ -22,7 +22,6 @@ table, td, th {
 .css-list{
     color: blue;
     list-style: square;
-    display: inline
 }
 
 .center{
